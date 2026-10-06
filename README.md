@@ -10,13 +10,13 @@ scripts, no cookies, no trackers. Not published yet: read the text first.
 | `peel/privacy/index.html` | https://alhammadi-de.github.io/peel/privacy/ | App Store Connect → App Privacy → **Privacy Policy URL**, and the AdMob consent message |
 | `app-ads.txt` | https://alhammadi-de.github.io/app-ads.txt | Checked by AdMob (must sit at the domain root) |
 
-## Fill in before publishing
+## Filled in (6 Oct)
 
-Three placeholders. Send Claude the values and Claude replaces them everywhere:
-
-- `PEEL_SUPPORT_EMAIL` — the email people write to (support and privacy page).
-- `PEEL_DEVELOPER_NAME` — the seller name exactly as the App Store shows it (privacy page).
-- `pub-XXXXXXXXXXXXXXXX` — the AdMob publisher ID (`app-ads.txt`), from AdMob → Settings → Account.
+- Support and privacy email: **ipa.tech23@gmail.com**; developer: **Mohamed Alhammadi**.
+- `app-ads.txt`: AdMob publisher **pub-3362624298374447**.
+- The privacy page matches his answers of 6 Oct: 13+ with ads rated T, the Home banner and the
+  interstitial (after a save or share, before Snapchat, at most once every 3 minutes), Report ad in
+  Settings. Mohamed reads the privacy text before anything is published (his ruling (d)).
 
 ## Publish
 
