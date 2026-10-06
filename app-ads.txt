@@ -1,4 +1,3 @@
 # app-ads.txt for apps whose App Store Marketing URL is https://alhammadi-de.github.io/
-# Replace pub-XXXXXXXXXXXXXXXX with the AdMob publisher ID (AdMob > Settings > Account).
 # Line format from Google: google.com, <publisher ID>, DIRECT, f08c47fec0942fa0
 google.com, pub-3362624298374447, DIRECT, f08c47fec0942fa0
